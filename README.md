@@ -5,6 +5,6 @@ Shiny application which calculates probability of inflicting a wound in Warhamme
 Application is deployed at https://josefbre.shinyapps.io/Warhammer_probCalculator_v_0_1/.
 For further information see 'readme' tab in the web application.
 
-**Copyright disclaimer:** Games Workshop and Warhammer are registered trademarks of Games Workshop Limited. All rights reserved. 
+___
 
-Purpose of this code is purely educational and has never been used for any commercial purpose.
+*Copyright disclaimer: Games Workshop and Warhammer are registered trademarks of Games Workshop Limited. All rights reserved. Purpose of this code is purely educational and has never been used for any commercial purpose.*
